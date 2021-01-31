@@ -1,0 +1,12 @@
+ENTIDAD,NOM_ENT,MUN,NOM_MUN,LOC,NOM_LOC,P3A5_NOA,P3A5_NOA_F,P3A5_NOA_M,P6A11_NOA,P6A11_NOAF,P6A11_NOAM,P12A14NOA,P12A14NOAF,P12A14NOAM,P15A17A,P15A17A_F,P15A17A_M,P18A24A,P18A24A_F,P18A24A_M,P8A14AN,P8A14AN_F,P8A14AN_M,P15YM_AN,P15YM_AN_F,P15YM_AN_M,P15YM_SE,P15YM_SE_F,P15YM_SE_M,P15PRI_IN,P15PRI_INF,P15PRI_INM,P15PRI_CO,P15PRI_COF,P15PRI_COM,P15SEC_IN,P15SEC_INF,P15SEC_INM,P15SEC_CO,P15SEC_COF,P15SEC_COM,P18YM_PB,P18YM_PB_F,P18YM_PB_M,GRAPROES,GRAPROES_F,GRAPROES_M
+29,Tlaxcala,041,Papalotla de Xicohténcatl,0000,Total del Municipio,738,359,379,186,73,113,152,75,77,1274,665,609,1265,630,635,79,35,44,655,449,206,689,458,231,1273,774,499,3755,1993,1762,634,267,367,7372,3841,3531,9743,4945,4798,9.85,9.70,10.01
+29,Tlaxcala,041,Papalotla de Xicohténcatl,0001,Papalotla,599,286,313,148,57,91,130,68,62,1094,574,520,1115,558,557,58,27,31,519,346,173,543,359,184,995,612,383,3205,1701,1504,524,218,306,6164,3211,2953,8743,4468,4275,10.01,9.88,10.16
+29,Tlaxcala,041,Papalotla de Xicohténcatl,0004,San Marcos Contla,129,67,62,37,15,22,18,5,13,178,90,88,150,72,78,14,5,9,124,95,29,139,95,44,254,149,105,509,277,232,103,45,58,1163,607,556,983,468,515,8.92,8.63,9.24
+29,Tlaxcala,041,Papalotla de Xicohténcatl,0014,El Piecito,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+29,Tlaxcala,041,Papalotla de Xicohténcatl,0015,San Diego Buenavista,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,5,3,2,6,3,3,2,1,1,4,2,2,2,0,2,6.25,5.78,6.64
+29,Tlaxcala,041,Papalotla de Xicohténcatl,0016,Tepizila,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+29,Tlaxcala,041,Papalotla de Xicohténcatl,0017,Xaltonac,9,5,4,1,1,0,3,2,1,2,1,1,0,0,0,7,3,4,9,6,3,4,2,2,18,9,9,32,12,20,5,3,2,35,18,17,13,8,5,7.28,7.50,7.05
+29,Tlaxcala,041,Papalotla de Xicohténcatl,0018,Copachigia,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+29,Tlaxcala,041,Papalotla de Xicohténcatl,0019,Zacatecoma,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+29,Tlaxcala,041,Papalotla de Xicohténcatl,9998,Localidades de una vivienda,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,0,1,0,0,0,5,3,2,1,0,1,7.88,6.75,9
+29,Tlaxcala,041,Papalotla de Xicohténcatl,9999,Localidades de dos viviendas,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
