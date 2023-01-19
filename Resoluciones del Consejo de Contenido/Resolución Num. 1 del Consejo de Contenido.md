@@ -35,6 +35,15 @@
 -  *Instruir a la Mesa de Administración en cambios que este consejo considere   	urgentes o provoquen daño reputacional a la Estantería Digital de Papalotla.*
 ***
 ### Texto añadido
+
+El Consejo de Contenido funcionará como una asamblea, con no más de siete miembros. Sus resoluciones pueden ser aprobadas en condiciones de *mayoría simple, mayoría calificada y unanimidad.*
+Las condiciones de aprobación serán las siguientes:
+
+- Para la modificación del la Declaración de la Estantería Digital de Papalotla y las declaraciones de funcionamiento: **Las que establece la propia Declaración de la Estantería Digital de Papalotla.**
+- Para la eliminación o modificación de un archivo, documento o publicación de la Estantería: **Mayoría simple.**
+- Para las otras atribuciones del Consejo de Contenido: **Mayoría simple.**
+***
+### Texto añadido
 *La jurisdicción de este texto es aplicable para la Estantería Digital de Papalotla como sitio web y para todos los espacios en redes sociales en los que se actúa en nombre de la misma.*
 
 *Las decisiones del Consejo de Contenido no obligan a Impossible Box de México a quebrantar alguna regulación aplicable en el territorio nacional (ni es su finalidad), pudiendo esta eliminar archivos de sus servidores sin consultar a ninguna instancia en caso de requerimientos judiciales.*
@@ -57,8 +66,9 @@
 ## 5. Conclusión y logs.
 La Resolución Número 1 del Consejo de Contenido que modifica la Declaración del Consejo de Contenido **queda aprobada por unanimidad**, cumpliéndose así el mínimo para poder editar la declaración.
 
-       - A la Mesa de Administración para la recolección de firmas necesaria, su publicación y la realización de las acciones mencionadas previamente..
-       - (Mesa de Administración) Declaración publicada, a las espera de firmas (8 de enero de 2023 | 22:12)
+       - A la Mesa de Administración para la recolección de firmas necesaria, su publicación y la realización de las acciones mencionadas previamente.
+       - (Mesa de Administración) (18 de enero de 2023, 22:33) Resolución publicada, a la espera de firmas.
+
 
 
 
