@@ -61,7 +61,19 @@ Las condiciones de aprobación serán las siguientes:
 
 ## 4. Firmas.
 
-***
+DATOS DE LA FIRMA ELECTRÓNICA:
+________________________________________________________________
+Firmante 1 de 1.
+ Serie del certificado: 00001000000414406945.
+ Titular: IMPOSSIBLE BOX DE MEXICO SAS DE CV.
+ Fecha y hora de firma del documento: martes 24 de enero de 2023 04:42:51 PM GMT
+ Firma:fUg/lvBZXy/JSmvMp/wxj5e7213vh9KC6ytUK3ShD8lnUUdmr2YqjSzpaC6QanKDrxCHQ5G+nNUW+JyG0p0XiuijVS3OeO4AuLMx89rPZDOjrp5pJuyNMTdqOKfQw0qX4wkmCMyHoY6ObW8uBJxE4Z6DvakTQaHOU3soRuIcRNOV2mJzC5ZOh9+wMeztAqzThgPJqPyRBRI6l7699UycCTFqgE5mK/XQCDOeF9tqOhzo0ksf7u/ZorPnuruxzuzzISqRf6/DTXDmbs9pSbW+JCCCE57X+ECY0nmui7qu7M7biBAlVRCn0B2Z1Btt5Pbdv/B046UdnfDyMKpJEE37OA==
+________________________________________________________________
+Esta es la representación visual de la firma electrónica del documento digital "Resolución Número 1 del Consejo de Contenido que modifica la Declaración del Consejo de Contenido.docx.fbmx" correspondiente.
+
+La verificación de la firma electrónica respectiva se debe realizar mediante los mecanismos establecidos.
+________________________________________________________________
+
 
 ## 5. Conclusión y logs.
 La Resolución Número 1 del Consejo de Contenido que modifica la Declaración del Consejo de Contenido **queda aprobada por unanimidad**, cumpliéndose así el mínimo para poder editar la declaración.
