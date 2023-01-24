@@ -80,6 +80,7 @@ La Resolución Número 1 del Consejo de Contenido que modifica la Declaración d
 
        - A la Mesa de Administración para la recolección de firmas necesaria, su publicación y la realización de las acciones mencionadas previamente.
        - (Mesa de Administración) (18 de enero de 2023, 22:33) Resolución publicada, a la espera de firmas.
+       - (Mesa de Administración) (24 de enero de 2023, 11:14) Firmas completadas y publicadas, se procede a los cambios.
 
 
 
