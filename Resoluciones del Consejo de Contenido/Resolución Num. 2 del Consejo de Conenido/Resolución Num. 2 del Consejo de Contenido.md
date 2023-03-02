@@ -81,6 +81,30 @@ El Consejo de Contenido de la Estantería Digital de Papalotla, en sesión ordin
 |--|--|--|
 | Impossible Box de México S.A.S de C.V. | 100% |A favor|
 ## 3. Firmas.
+DATOS DE LA FIRMA ELECTRÓNICA:
+________________________________________________________________
+Firmante 1 de 1.
+Serie del certificado: 00001000000414406945.
+Titular: IMPOSSIBLE BOX DE MEXICO SAS DE CV.
+Fecha y hora de firma del documento: martes 28 de febrero de
+2023 09:08:54 AM GMT
+Firma:B7Ltn9LjvqaC6aPf6d3VCK9jkUmck1/pCN5SNBvY3ssXVqfPDu1M+/EfHP
+qYlkCOnV39WZvNxmG/oWmpFuFvhrw0bmfRPrKysymYzbsrkplkqnEQNPj5gIbmbx0bFHHV
+NSD9i3hUvIe31JUR296qk1UE67qWHwJzn0HOiDq+BWvALKWLcvyPwGXm31MXdpMor1xeQX
+PLxNCR4NREM7tyZEk0JF9EAvGq9IthTdaBXeaUCzKr4PoYZkubP6
+A5N7pcSU56XSJB5GtW
+h1q6RNyoObdzwmilUouja2TTT2dkjZ1STZF5to1Jb9TWxZac//s/gPzpYJo1UmN3JX9G5X
+Ar9A==
+________________________________________________________________
+Esta es la representación visual de la firma electrónica del documento
+digital "Resolución Númer
+o 2 del Consejo de Contenido que modifica las
+Declaraciones sobre la Mesa de Administración (2).docx.fbmx"
+correspondiente.
+La verificación de la firma electrónica respectiva se debe realizar
+mediante los mecanismos establecidos.
+_________________________
+_______________________________________
 
 ## 5. Conclusión y logs.
  
