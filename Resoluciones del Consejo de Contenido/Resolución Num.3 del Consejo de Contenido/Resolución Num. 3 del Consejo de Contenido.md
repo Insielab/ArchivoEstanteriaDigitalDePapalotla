@@ -1,6 +1,6 @@
   # Resolución Número 3 del Consejo de Contenido que modifica la Declaración sobre el  Consejo de Contenido
   
- **11 de enero de 2024**
+ **10 de enero de 2024**
 Considerando que:
 
 1. Impossible Box de México se encuentra en la búsqueda de consolidar los mecanismos de participación en la Estantería Digital de Papalotla y su Consejo de Contenido.
