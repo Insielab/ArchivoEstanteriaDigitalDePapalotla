@@ -113,6 +113,7 @@ La Resolución Número 3 del Consejo de Contenido que modifica la Declaración s
         ```
        - A la Mesa de Administración para la recolección de firmas necesaria, su publicación y la realización de las acciones mencionadas previamente(11 de enero de 2024). 
        - Mesa de Administración: Firma recabada, resolución publicada. En proceso de cambios. (11 de enero de 2024)
+       - Mesa de Administración: Cambios publicados en Declaración. (11 de enero de 2024)
 
 
 
