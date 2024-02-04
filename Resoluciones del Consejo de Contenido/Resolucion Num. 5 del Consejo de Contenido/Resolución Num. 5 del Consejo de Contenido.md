@@ -85,4 +85,10 @@ ________________________________________________________________
 ## 4. Conclusión y logs.
  
 La  Resolución Número 5 del Consejo de Contenido que establece el Estatuto de Sostenibilidad Económica
+ **queda aprobada por unanimidad**, cumpliéndose así el mínimo para poder establecer el estatuto.
+## 4. Conclusión y logs.
+ 
+La  Resolución Número 5 del Consejo de Contenido que establece el Estatuto de Sostenibilidad Económica
  **queda aprobada por unanimidad**, cumpliéndose así el mínimo para poder editar la declaración.
+ ```
+ ```A la Mesa de Administración para la recolección de firmas necesaria, su publicación y la realización de las acciones mencionadas previamente. (3 de febrero de 2024)
