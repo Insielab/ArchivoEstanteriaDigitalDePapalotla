@@ -58,3 +58,4 @@ ____________________________________________________
 La Resolución Número 4 del Consejo de Contenido que modifica la Declaración de la Estantería Digital de Papalotla y deroga los Estatutos de Financiación y Gastos queda aprobada por unanimidad, cumpliéndose así el mínimo para poder editar la declaración.
 ```
        - A la Mesa de Administración para la recolección de firmas necesaria, su publicación y la realización de las acciones mencionadas previamente(4 de febrero de 2024).
+	- Mesa de Administración: Firmas recolectadas, resolucion pulicada.(4 de febrero de 2024).
