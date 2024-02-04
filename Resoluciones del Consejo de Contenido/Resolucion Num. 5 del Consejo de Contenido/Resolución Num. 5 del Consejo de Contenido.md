@@ -92,3 +92,4 @@ La  Resolución Número 5 del Consejo de Contenido que establece el Estatuto de 
  **queda aprobada por unanimidad**, cumpliéndose así el mínimo para poder editar la declaración.
  ```
  ```A la Mesa de Administración para la recolección de firmas necesaria, su publicación y la realización de las acciones mencionadas previamente. (3 de febrero de 2024)
+	- Mesa de Administración: Resolución publicada, cambios en proceso. (3 de febrero de 2024)
