@@ -1,4 +1,4 @@
-# Resolución Número 6 del Consejo de Contenido que modifica la Declaración de la Estantería Digital de Papalotla y por imperativo de reforma establece la Carta de Derechos de los Usuarios y la Comunidad
+# Resolución Número 7 del Consejo de Contenido que modifica la Declaración de la Estantería Digital de Papalotla y por imperativo de reforma establece la Carta de Derechos de los Usuarios y la Comunidad
 
 **Fecha:** 
  1 de agosto de 2025, en conmemoración del Movimiento Democrático de Papalotla.
